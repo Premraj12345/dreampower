@@ -14,8 +14,8 @@ watchdog==0.10.3
 imageio-ffmpeg==0.4.2
 verboselogs==1.7
 #torch==1.12.0+cpu
-#torchvision==0.13.0+cpu
-torchvision_nightly
+torchvision==0.13.0+cpu
+#torchvision_nightly
 -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
 
 
