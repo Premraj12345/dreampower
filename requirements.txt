@@ -13,3 +13,5 @@ rsa==4.6
 watchdog==0.10.3
 imageio-ffmpeg==0.4.2
 verboselogs==1.7
+torch
+torchvision
