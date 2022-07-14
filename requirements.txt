@@ -15,4 +15,4 @@ imageio-ffmpeg==0.4.2
 verboselogs==1.7
 #torch==1.12.0+cpu
 #torchvision==0.13.0+cpu
-http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
+https://files.pythonhosted.org/packages/c6/d6/81230cb26d5b83cd0d17a7fdf875c62d3dc1c116723c9c75dfe3d65b1a12/torch-1.12.0-cp310-cp310-win_amd64.whl
