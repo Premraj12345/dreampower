@@ -15,4 +15,5 @@ imageio-ffmpeg==0.4.2
 verboselogs==1.7
 #torch==1.12.0+cpu
 #torchvision==0.13.0+cpu
-https://files.pythonhosted.org/packages/a8/54/af39450ee79c9bfe8db0754354cb490a6fd04a44f95c2622b00e019d1606/torch-1.12.0-cp310-cp310-manylinux2014_aarch64.whl
+torch==1.9.0+cpu
+torchvision==0.10.0+cpu
